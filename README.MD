@@ -1,0 +1,5 @@
+#ESTE É O MEU PRIMEIRO README!
+
+![./hardflip.jpg](Hardflip)
+
+ESSE REPOSITORIO SERVE DE EXEMPLO.
